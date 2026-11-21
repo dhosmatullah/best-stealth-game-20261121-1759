@@ -1,5 +1,11 @@
 # Quiet Vault
 
+[![make.fun · best-stealth-game-20261121-1759](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/dhosmatullah/best-stealth-game-20261121-1759/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/dhosmatullah/best-stealth-game-20261121-1759/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+
+Built for the [best-stealth-game-20261121-1759 bounty on make.fun](https://make.fun/bounty/best-stealth-game-20261121-1759).
+
 A top-down stealth heist in three floors of the Harrowgate Museum. You are
 the thief. The wardens patrol with sweeping vision cones, the marble is loud
 under running feet, the ferns hide you, and the lamplight exposes you. Steal
